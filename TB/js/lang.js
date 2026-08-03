@@ -32,6 +32,12 @@ contactFeelFreeViaEmail: `Feel free to contact me on my email:  <a href="mailto:
 contactJustFillOut: `Just fill out the form below to get started.`,
 contactPrivacyPolicy: `By clicking on the button, you consent to the processing of personal data and agree to the privacy policy`,
 
+deliveryDeadlines: `1. Deadlines`,
+deliveryDeliveryTimes: `<br>Delivery times will depend on the delivery location. Generally, orders can take from 3 to 10 working days to arrive. Worldwide deliveries take 10-14 working days.`,
+deliveryPrices: `2. Prices`,
+deliveryFreeShipping: `Free shipping within Poland. For International shipping, please contact for a quote via tiana.breeze.art@gmail.com. Shipping charges for your order will be calculated and displayed at checkout.`,
+deliveryDoYouHaveAnyQuestions: `Do you have any questions?`,
+deliveryFeelFreeToContactMe: `Feel free to contact me <a class="contact-email" href="contact">here.</a>`,
 	  
     footerText: "© Copyright Tiana Breeze Art",
     shipping: "SHIPPING & RETURNS",
@@ -71,6 +77,12 @@ contactFeelFreeViaEmail: "",contactFeelFreeViaEmail: `Zapraszam do kontaktu prze
 contactJustFillOut: `Wypełnij poniższy formularz, aby rozpocząć.`,
 contactPrivacyPolicy: `Klikając przycisk, wyrażasz zgodę na przetwarzanie danych osobowych i akceptujesz politykę prywatności`,
 
+deliveryDeadlines: `1. Terminy`,
+deliveryDeliveryTimes: `< br>Czas Dostawy zależy od miejsca dostawy. Ogólnie rzecz biorąc, zamówienia mogą trwać od 3 do 10 dni roboczych. Dostawy na całym świecie trwają 10-14 dni roboczych.`,
+deliveryPrices: `2. Ceny`,
+deliveryFreeShipping: `Bezpłatna Wysyłka na terenie Polski. W przypadku wysyłki międzynarodowej prosimy o kontakt w celu uzyskania wyceny za pośrednictwem tiana.breeze.art@gmail.com. koszty wysyłki zamówienia zostaną obliczone i wyświetlone przy kasie.`,
+deliveryDoYouHaveAnyQuestions: ` Czy masz jakieś pytania?`,
+deliveryFeelFreeToContactMe: `Skontaktuj się ze mną  <a class="contact-email" href="contact">tutaj.</a>`,
 
     footerText: "© Prawa autorskie Tiana Breeze Art",
     shipping: "WYSYŁKA I ZWROTY",
