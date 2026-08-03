@@ -9,7 +9,7 @@
 }
 
 .about-title {
-    text-align: left;
+    text-align: left; 
 	font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -55,7 +55,8 @@
 }
 
 .img2 {
-    width: 35%;
+    width: auto;
+    height: 70vh;
     margin: auto;
     float: right;
 	border-radius: 2px;
