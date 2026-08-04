@@ -10,7 +10,7 @@ indexLearnMoreButton: "Learn More",
 aboutParagraph1: `<br>Tiana Breeze is a Belarusian-Polish artist whose work explores the poetics of water, reflections, and light.
 <br></br>She was born in Vitebsk and graduated from the Faculty of Fine Arts at Vitebsk State University, where she studied painting under Professor Anatoly Chmil. She completed her diploma in oil painting with distinction.
 <br></br>After more than ten years in the corporate world, Tiana returned to painting, rediscovering herself and dedicating herself to what has always been her true passion. Her move to Poland — her father’s homeland — marked a new chapter in her life, where she continued to develop her practice as a professional artist.
-<br></br>Tiana is a member of the Union of Polish Painters and Graphic Artists. In 2025, she presented her paintings at the exhibition “Po raz pierwszy razem” in Warsaw, organized by the Union — the first exhibition for new members. Her works are held in private collections in Poland, Germany, the United Kingdom, the United States, and other countries.
+<br></br>Tiana is a member of the Union of Polish Painters and Graphic Artists. Her works are held in private collections in Poland, Germany, the United Kingdom, the United States, and other countries.
 `,
 	aboutMeStatement: `ARTIST STATEMENT`,
 aboutParagraph2: `Water occupies a central place in my work. It refracts light, blurs boundaries, and creates an illusion of reality on the edge of abstraction.
@@ -54,8 +54,8 @@ deliveryFeelFreeToContactMe: `Feel free to contact me <a class="contact-email" h
     aboutMeTitle: "O MNIE",
 aboutParagraph1: `<br>Tiana Breeze jest białorusko-polską artystką, której twórczość eksploruje poetykę wody, refleksy oraz światło.
 <br></br>Urodziła się w Witebsku i ukończyła Wydział Sztuk Pięknych na Uniwersytecie Państwowym w Witebsku, gdzie studiowała malarstwo pod kierunkiem profesora Anatolija Chmila. Dyplom z malarstwa olejnego uzyskała z wyróżnieniem.
-<br></br>Po ponad dziesięciu latach pracy w korporacji Tiana powróciła do malarstwa, na nowo odnajdując siebie i oddając się temu, co zawsze było jej prawdziwą pasją. Jej przeprowadzka do Polski — ojczyzny ojca — rozpoczęła nowy rozdział w życiu, w którym kontynuuje rozwój jako profesjonalna artystka.
-<br></br>Tiana jest członkinią Związku Polskich Malarzy i Grafików. W 2025 roku zaprezentowała swoje obrazy na wystawie „Po raz pierwszy razem” w Warszawie, organizowanej przez Związek — był to pierwszy pokaz dla nowych członków. Jej prace znajdują się w prywatnych kolekcjach w Polsce, Niemczech, Wielkiej Brytanii, Stanach Zjednoczonych oraz innych krajach.
+<br></br>Po ponad dziesięciu latach pracy w korporacji Tiana powróciła do malarstwa, na nowo odnajdując siebie i oddając się temu, co zawsze było jej prawdziwą pasją. Jej przeprowadzka do Polski — ojczyzny ojca — rozpoczęła nowy rozdział w życiu, w którym kontynuje rozwój jako profesjonalna artystka.
+<br></br>Tiana jest członkinią Związku Polskich Malarzy i Grafików. Jej prace znajdują się w prywatnych kolekcjach w Polsce, Niemczech, Wielkiej Brytanii, Stanach Zjednoczonych oraz innych krajach.
 `,
 	aboutMeStatement: `OŚWIADCZENIE ARTYSTKI`,
 aboutParagraph2: `Woda zajmuje centralne miejsce w mojej twórczości. Załamuje światło, rozmywa granice i tworzy iluzję rzeczywistości na pograniczu z abstrakcją.
