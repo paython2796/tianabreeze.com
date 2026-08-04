@@ -78,7 +78,7 @@ contactJustFillOut: `Wypełnij poniższy formularz, aby rozpocząć.`,
 contactPrivacyPolicy: `Klikając przycisk, wyrażasz zgodę na przetwarzanie danych osobowych i akceptujesz politykę prywatności`,
 
 deliveryDeadlines: `1. Terminy`,
-deliveryDeliveryTimes: `<br>Czas dostawy zależy od miejsca dostawy. Ogólnie zamówienia mogą trwać od 3 do 10 dni roboczych. Dostawy na całym świecie trwają 10-14 dni roboczych.`,
+deliveryDeliveryTimes: `<br>Czas dostawy zależy od miejsca dostawy. Czas dostawy na terenie Polski wynosi od 3 do 10 dni robiczych. Dostawy na całym świecie trwają 10-14 dni roboczych.`,
 deliveryPrices: `2. Ceny`,
 deliveryFreeShipping: `Wysyłka jest bezpłatna na terenie Polski. W przypadku wysyłki międzynarodowej prosimy o kontakt w celu uzyskania wyceny za pośrednictwem tiana.breeze.art@gmail.com.`,
 deliveryDoYouHaveAnyQuestions: ` Czy masz jakieś pytania?`,
